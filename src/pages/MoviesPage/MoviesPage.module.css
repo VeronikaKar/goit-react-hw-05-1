@@ -1,0 +1,23 @@
+.input {
+  height: 30px;
+  width: 300px;
+  margin-top: 20px;
+  color: rgb(30, 3, 3);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+.button {
+  background-color: #5d6fed;
+  height: 36px;
+  width: 100px;
+  border-radius: 10px;
+  color: rgb(205, 193, 193);
+  margin-top: 17px;
+}
+
+.button:hover {
+  background-color: rgb(13, 36, 141);
+}
